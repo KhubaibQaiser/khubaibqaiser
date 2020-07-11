@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KhubaibQaiser/khubaibqaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 💬 About me:
+
+I am a professional frontend developer with more than 5 years of experience. I have expertise in both Mobile and Web development. Specialized in ReactJS, React Native, Redux and Android - Kotlin. Someone who always strives for elegance and simplicity in code while focusing on reusability, and best practices. Expert in building scalable architecture using Clean Architecture, MVVM and design principles like SOLID, KISS, DRY. Meticulous, with keen attention to details, with strong analytical and communication skills. 
+
+# 🌱 Currently learning:
+- NodeJS
+- Firebase Firestore
+- Firebase Functions
+- VueJS
+
+# 📫 Reach me:
+- Portfolio: https://khubaibqaiser.com/
+- LinkedIn: https://www.linkedin.com/in/khubaib-qaiser/
+- Facebook: https://facebook.com/khubaibqaiser

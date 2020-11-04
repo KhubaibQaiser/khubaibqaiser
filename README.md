@@ -20,11 +20,10 @@ I am a professional frontend developer with more than 5 years of experience. I h
 # My Resume:
 [Khubaib Qaiser.pdf](https://khubaibqaiser.com/resume.pdf)
 
-# 🌱 Currently learning:
-- NodeJS
-- Firebase Firestore
-- Firebase Functions
-- VueJS
+# 🌱 Currently Working:
+- NextJS
+- React Native
+- Android
 
 # 📫 Reach me:
 - Portfolio: https://khubaibqaiser.com/

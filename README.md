@@ -23,7 +23,6 @@ I am a professional frontend developer with more than 5 years of experience. I h
 # 🔭 Currently Working:
 - NextJS
 - React Native
-- Android
 
 # 📫 Reach me:
 - Portfolio: https://khubaibqaiser.com/
